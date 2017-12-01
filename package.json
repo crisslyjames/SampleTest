@@ -1,0 +1,22 @@
+{
+  "name": "sampletest",
+  "version": "1.0.0",
+  "description": "sample test automation suite",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/crisslyjames/SampleTest.git"
+  },
+  "author": "crissly james",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/crisslyjames/SampleTest/issues"
+  },
+  "homepage": "https://github.com/crisslyjames/SampleTest#readme",
+  "devDependencies": {
+    "webdriverio": "^4.9.11"
+  }
+}
