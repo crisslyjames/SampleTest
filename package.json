@@ -17,6 +17,7 @@
   },
   "homepage": "https://github.com/crisslyjames/SampleTest#readme",
   "devDependencies": {
+    "wdio-mocha-framework": "^0.5.11",
     "webdriverio": "^4.9.11"
   }
 }
